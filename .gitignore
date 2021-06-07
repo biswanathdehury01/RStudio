@@ -2,4 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 Filters_in_R.R
+=======
+>>>>>>> bff26db31d5fd88b290b9d5385172697217b202f
